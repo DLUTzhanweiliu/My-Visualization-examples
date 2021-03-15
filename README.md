@@ -5,8 +5,9 @@ object: help my to query codes
 ---
 # My-Visualization-examples
 show my graphs
+
 ****
-![](./src/figs/flowcharts.phg)
+![](./src/figs/flowcharts.png)
 
   * [flowcharts.pdf](https://github.com/DLUTzhanweiliu/My-Visualization-examples/tree/main/src/figs/flowcharts.pdf)
 
