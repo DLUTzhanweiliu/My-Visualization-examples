@@ -6,11 +6,7 @@ object: help my to query codes
 # My-Visualization-examples
 show my graphs
 ****
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<embed src="https://github.com/DLUTzhanweiliu/My-Visualization-examples/tree/main/src/figs/flowcharts.pdf" width="500" height="375" type="application/pdf">
 ![](./src/figs/flowcharts.pdf)
 
   * [flowcharts.pdf](https://github.com/DLUTzhanweiliu/My-Visualization-examples/tree/main/src/figs/flowcharts.pdf)
