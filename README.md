@@ -7,9 +7,9 @@ object: help my to query codes
 show my graphs
 ****
 
-![](./src/agronomia.png)
+![](./src/figs/flowcharts.pdf)
 
-  * [agronomia.pgf](https://github.com/walmes/Tikz/blob/master/src/agronomia.pgf)
+  * [flowcharts.pdf](https://github.com/DLUTzhanweiliu/My-Visualization-examples/tree/main/src/figs/flowcharts.pdf)
 
 ```tex
 \documentclass[border=10pt]{standalone}
