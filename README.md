@@ -6,8 +6,7 @@ object: help my to query codes
 # My-Visualization-examples
 show my graphs
 ****
-<embed src="https://github.com/DLUTzhanweiliu/My-Visualization-examples/tree/main/src/figs/flowcharts.pdf" width="500" height="375" type="application/pdf">
-![](./src/figs/flowcharts.pdf)
+![](./src/figs/flowcharts.phg)
 
   * [flowcharts.pdf](https://github.com/DLUTzhanweiliu/My-Visualization-examples/tree/main/src/figs/flowcharts.pdf)
 
